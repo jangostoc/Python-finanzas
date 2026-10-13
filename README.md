@@ -12,8 +12,9 @@ Portfolio de proyectos prácticos en los que aplico **Python e inteligencia arti
 |---|---|---|---|
 | 01 | [Rentabilidad y volatilidad de acciones](01-rentabilidades-acciones/)<br>[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jangostoc/finanzas-con-ia/blob/main/01-rentabilidades-acciones/rentabilidades_notebook.ipynb) | Descarga de datos de mercado, cálculo de rentabilidades y generación automática de un informe en Excel + gráfico. Mismo análisis en **Notebook** (exploración) y en **Script** (automatización). | Python · pandas · yfinance · matplotlib |
 | 02 | [Modelo de proyección PyG — Netflix 2026–2030](02-modelo-pyg-netflix/)<br>[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jangostoc/finanzas-con-ia/blob/main/02-modelo-pyg-netflix/modelo_netflix.ipynb) | Transcripción de estados financieros, **validación de cuadres**, ratios históricos y proyección a 5 años con hipótesis separadas del cálculo. | Python · pandas · matplotlib · Excel |
+| 03 | [Análisis de desviaciones Real vs Presupuesto](03-desviaciones-real-vs-presupuesto/)<br>[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jangostoc/finanzas-con-ia/blob/main/03-desviaciones-real-vs-presupuesto/desviaciones_real_vs_ppto.ipynb) | Cierre mensual de una distribuidora (ficticia): PyG real vs presupuesto, **efecto precio/volumen/mix**, alertas por materialidad, mapa de calor de gastos, **puente de EBITDA** y conclusiones de negocio. | Python · pandas · matplotlib · Excel |
 
-![Modelo Netflix](02-modelo-pyg-netflix/grafico_modelo.png)
+![Puente de EBITDA](03-desviaciones-real-vs-presupuesto/cascada_ebitda.png)
 
 ---
 

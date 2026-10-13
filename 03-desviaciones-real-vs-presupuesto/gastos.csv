@@ -1,0 +1,217 @@
+mes,departamento,concepto,escenario,importe
+2026-01,Comercial,Personal,Presupuesto,85000.0
+2026-01,Comercial,Personal,Real,83777.57
+2026-02,Comercial,Personal,Presupuesto,85000.0
+2026-02,Comercial,Personal,Real,85097.48
+2026-03,Comercial,Personal,Presupuesto,85000.0
+2026-03,Comercial,Personal,Real,85791.35
+2026-04,Comercial,Personal,Presupuesto,85000.0
+2026-04,Comercial,Personal,Real,85634.37
+2026-05,Comercial,Personal,Presupuesto,85000.0
+2026-05,Comercial,Personal,Real,82902.54
+2026-06,Comercial,Personal,Presupuesto,85000.0
+2026-06,Comercial,Personal,Real,83871.09
+2026-07,Comercial,Personal,Presupuesto,85000.0
+2026-07,Comercial,Personal,Real,84666.83
+2026-08,Comercial,Personal,Presupuesto,85000.0
+2026-08,Comercial,Personal,Real,83548.71
+2026-09,Comercial,Personal,Presupuesto,85000.0
+2026-09,Comercial,Personal,Real,86151.45
+2026-01,Comercial,Marketing,Presupuesto,30000.0
+2026-01,Comercial,Marketing,Real,30352.81
+2026-02,Comercial,Marketing,Presupuesto,30000.0
+2026-02,Comercial,Marketing,Real,28825.75
+2026-03,Comercial,Marketing,Presupuesto,30000.0
+2026-03,Comercial,Marketing,Real,28916.85
+2026-04,Comercial,Marketing,Presupuesto,30000.0
+2026-04,Comercial,Marketing,Real,29231.06
+2026-05,Comercial,Marketing,Presupuesto,30000.0
+2026-05,Comercial,Marketing,Real,75070.36
+2026-06,Comercial,Marketing,Presupuesto,30000.0
+2026-06,Comercial,Marketing,Real,31219.9
+2026-07,Comercial,Marketing,Presupuesto,30000.0
+2026-07,Comercial,Marketing,Real,29770.59
+2026-08,Comercial,Marketing,Presupuesto,30000.0
+2026-08,Comercial,Marketing,Real,30150.39
+2026-09,Comercial,Marketing,Presupuesto,30000.0
+2026-09,Comercial,Marketing,Real,29362.13
+2026-01,Comercial,Viajes y dietas,Presupuesto,8000.0
+2026-01,Comercial,Viajes y dietas,Real,6266.0
+2026-02,Comercial,Viajes y dietas,Presupuesto,8000.0
+2026-02,Comercial,Viajes y dietas,Real,6149.47
+2026-03,Comercial,Viajes y dietas,Presupuesto,8000.0
+2026-03,Comercial,Viajes y dietas,Real,6396.37
+2026-04,Comercial,Viajes y dietas,Presupuesto,8000.0
+2026-04,Comercial,Viajes y dietas,Real,6521.24
+2026-05,Comercial,Viajes y dietas,Presupuesto,8000.0
+2026-05,Comercial,Viajes y dietas,Real,6354.34
+2026-06,Comercial,Viajes y dietas,Presupuesto,8000.0
+2026-06,Comercial,Viajes y dietas,Real,6578.75
+2026-07,Comercial,Viajes y dietas,Presupuesto,8000.0
+2026-07,Comercial,Viajes y dietas,Real,6425.33
+2026-08,Comercial,Viajes y dietas,Presupuesto,8000.0
+2026-08,Comercial,Viajes y dietas,Real,6395.34
+2026-09,Comercial,Viajes y dietas,Presupuesto,8000.0
+2026-09,Comercial,Viajes y dietas,Real,6466.21
+2026-01,Logística,Personal,Presupuesto,110000.0
+2026-01,Logística,Personal,Real,111072.23
+2026-02,Logística,Personal,Presupuesto,110000.0
+2026-02,Logística,Personal,Real,112525.17
+2026-03,Logística,Personal,Presupuesto,110000.0
+2026-03,Logística,Personal,Real,108235.7
+2026-04,Logística,Personal,Presupuesto,110000.0
+2026-04,Logística,Personal,Real,104966.29
+2026-05,Logística,Personal,Presupuesto,110000.0
+2026-05,Logística,Personal,Real,110252.44
+2026-06,Logística,Personal,Presupuesto,110000.0
+2026-06,Logística,Personal,Real,108654.31
+2026-07,Logística,Personal,Presupuesto,110000.0
+2026-07,Logística,Personal,Real,123133.04
+2026-08,Logística,Personal,Presupuesto,110000.0
+2026-08,Logística,Personal,Real,127300.84
+2026-09,Logística,Personal,Presupuesto,110000.0
+2026-09,Logística,Personal,Real,107573.75
+2026-01,Logística,Transporte,Presupuesto,68625.0
+2026-01,Logística,Transporte,Real,69032.7
+2026-02,Logística,Transporte,Presupuesto,68895.0
+2026-02,Logística,Transporte,Real,68819.4
+2026-03,Logística,Transporte,Presupuesto,73980.0
+2026-03,Logística,Transporte,Real,74162.7
+2026-04,Logística,Transporte,Presupuesto,76500.0
+2026-04,Logística,Transporte,Real,78168.54
+2026-05,Logística,Transporte,Presupuesto,80676.0
+2026-05,Logística,Transporte,Real,87346.4
+2026-06,Logística,Transporte,Presupuesto,85950.0
+2026-06,Logística,Transporte,Real,91768.23
+2026-07,Logística,Transporte,Presupuesto,86850.0
+2026-07,Logística,Transporte,Real,90279.41
+2026-08,Logística,Transporte,Presupuesto,83025.0
+2026-08,Logística,Transporte,Real,86765.31
+2026-09,Logística,Transporte,Presupuesto,81585.0
+2026-09,Logística,Transporte,Real,90177.81
+2026-01,Logística,Alquiler almacén,Presupuesto,40000.0
+2026-01,Logística,Alquiler almacén,Real,40000.0
+2026-02,Logística,Alquiler almacén,Presupuesto,40000.0
+2026-02,Logística,Alquiler almacén,Real,40000.0
+2026-03,Logística,Alquiler almacén,Presupuesto,40000.0
+2026-03,Logística,Alquiler almacén,Real,40000.0
+2026-04,Logística,Alquiler almacén,Presupuesto,40000.0
+2026-04,Logística,Alquiler almacén,Real,40000.0
+2026-05,Logística,Alquiler almacén,Presupuesto,40000.0
+2026-05,Logística,Alquiler almacén,Real,40000.0
+2026-06,Logística,Alquiler almacén,Presupuesto,40000.0
+2026-06,Logística,Alquiler almacén,Real,40000.0
+2026-07,Logística,Alquiler almacén,Presupuesto,40000.0
+2026-07,Logística,Alquiler almacén,Real,40000.0
+2026-08,Logística,Alquiler almacén,Presupuesto,40000.0
+2026-08,Logística,Alquiler almacén,Real,40000.0
+2026-09,Logística,Alquiler almacén,Presupuesto,40000.0
+2026-09,Logística,Alquiler almacén,Real,40000.0
+2026-01,Logística,Energía,Presupuesto,14000.0
+2026-01,Logística,Energía,Real,14214.14
+2026-02,Logística,Energía,Presupuesto,14000.0
+2026-02,Logística,Energía,Real,14264.84
+2026-03,Logística,Energía,Presupuesto,14000.0
+2026-03,Logística,Energía,Real,14129.01
+2026-04,Logística,Energía,Presupuesto,14000.0
+2026-04,Logística,Energía,Real,14313.18
+2026-05,Logística,Energía,Presupuesto,14000.0
+2026-05,Logística,Energía,Real,13871.66
+2026-06,Logística,Energía,Presupuesto,14000.0
+2026-06,Logística,Energía,Real,16294.83
+2026-07,Logística,Energía,Presupuesto,14000.0
+2026-07,Logística,Energía,Real,16863.28
+2026-08,Logística,Energía,Presupuesto,14000.0
+2026-08,Logística,Energía,Real,16757.99
+2026-09,Logística,Energía,Presupuesto,14000.0
+2026-09,Logística,Energía,Real,14389.31
+2026-01,Administración,Personal,Presupuesto,60000.0
+2026-01,Administración,Personal,Real,60254.75
+2026-02,Administración,Personal,Presupuesto,60000.0
+2026-02,Administración,Personal,Real,61948.28
+2026-03,Administración,Personal,Presupuesto,60000.0
+2026-03,Administración,Personal,Real,59661.5
+2026-04,Administración,Personal,Presupuesto,60000.0
+2026-04,Administración,Personal,Real,58727.61
+2026-05,Administración,Personal,Presupuesto,60000.0
+2026-05,Administración,Personal,Real,57555.49
+2026-06,Administración,Personal,Presupuesto,60000.0
+2026-06,Administración,Personal,Real,58678.32
+2026-07,Administración,Personal,Presupuesto,60000.0
+2026-07,Administración,Personal,Real,60982.2
+2026-08,Administración,Personal,Presupuesto,60000.0
+2026-08,Administración,Personal,Real,58242.09
+2026-09,Administración,Personal,Presupuesto,60000.0
+2026-09,Administración,Personal,Real,59457.16
+2026-01,Administración,Servicios profesionales,Presupuesto,12000.0
+2026-01,Administración,Servicios profesionales,Real,12505.58
+2026-02,Administración,Servicios profesionales,Presupuesto,12000.0
+2026-02,Administración,Servicios profesionales,Real,12203.23
+2026-03,Administración,Servicios profesionales,Presupuesto,12000.0
+2026-03,Administración,Servicios profesionales,Real,12429.84
+2026-04,Administración,Servicios profesionales,Presupuesto,12000.0
+2026-04,Administración,Servicios profesionales,Real,11762.03
+2026-05,Administración,Servicios profesionales,Presupuesto,12000.0
+2026-05,Administración,Servicios profesionales,Real,11409.61
+2026-06,Administración,Servicios profesionales,Presupuesto,12000.0
+2026-06,Administración,Servicios profesionales,Real,7418.36
+2026-07,Administración,Servicios profesionales,Presupuesto,12000.0
+2026-07,Administración,Servicios profesionales,Real,11659.93
+2026-08,Administración,Servicios profesionales,Presupuesto,12000.0
+2026-08,Administración,Servicios profesionales,Real,12021.82
+2026-09,Administración,Servicios profesionales,Presupuesto,12000.0
+2026-09,Administración,Servicios profesionales,Real,12052.1
+2026-01,Administración,Alquiler oficinas,Presupuesto,9000.0
+2026-01,Administración,Alquiler oficinas,Real,9000.0
+2026-02,Administración,Alquiler oficinas,Presupuesto,9000.0
+2026-02,Administración,Alquiler oficinas,Real,9000.0
+2026-03,Administración,Alquiler oficinas,Presupuesto,9000.0
+2026-03,Administración,Alquiler oficinas,Real,9000.0
+2026-04,Administración,Alquiler oficinas,Presupuesto,9000.0
+2026-04,Administración,Alquiler oficinas,Real,9000.0
+2026-05,Administración,Alquiler oficinas,Presupuesto,9000.0
+2026-05,Administración,Alquiler oficinas,Real,9000.0
+2026-06,Administración,Alquiler oficinas,Presupuesto,9000.0
+2026-06,Administración,Alquiler oficinas,Real,9000.0
+2026-07,Administración,Alquiler oficinas,Presupuesto,9000.0
+2026-07,Administración,Alquiler oficinas,Real,9000.0
+2026-08,Administración,Alquiler oficinas,Presupuesto,9000.0
+2026-08,Administración,Alquiler oficinas,Real,9000.0
+2026-09,Administración,Alquiler oficinas,Presupuesto,9000.0
+2026-09,Administración,Alquiler oficinas,Real,9000.0
+2026-01,IT,Personal,Presupuesto,25000.0
+2026-01,IT,Personal,Real,24525.55
+2026-02,IT,Personal,Presupuesto,25000.0
+2026-02,IT,Personal,Real,25776.32
+2026-03,IT,Personal,Presupuesto,25000.0
+2026-03,IT,Personal,Real,25774.67
+2026-04,IT,Personal,Presupuesto,25000.0
+2026-04,IT,Personal,Real,25275.72
+2026-05,IT,Personal,Presupuesto,25000.0
+2026-05,IT,Personal,Real,24985.25
+2026-06,IT,Personal,Presupuesto,25000.0
+2026-06,IT,Personal,Real,25095.72
+2026-07,IT,Personal,Presupuesto,25000.0
+2026-07,IT,Personal,Real,24452.05
+2026-08,IT,Personal,Presupuesto,25000.0
+2026-08,IT,Personal,Real,24880.47
+2026-09,IT,Personal,Presupuesto,25000.0
+2026-09,IT,Personal,Real,24947.53
+2026-01,IT,Licencias y servicios,Presupuesto,15000.0
+2026-01,IT,Licencias y servicios,Real,14744.33
+2026-02,IT,Licencias y servicios,Presupuesto,15000.0
+2026-02,IT,Licencias y servicios,Real,15254.76
+2026-03,IT,Licencias y servicios,Presupuesto,15000.0
+2026-03,IT,Licencias y servicios,Real,36572.06
+2026-04,IT,Licencias y servicios,Presupuesto,15000.0
+2026-04,IT,Licencias y servicios,Real,14863.97
+2026-05,IT,Licencias y servicios,Presupuesto,15000.0
+2026-05,IT,Licencias y servicios,Real,14324.14
+2026-06,IT,Licencias y servicios,Presupuesto,15000.0
+2026-06,IT,Licencias y servicios,Real,15149.05
+2026-07,IT,Licencias y servicios,Presupuesto,15000.0
+2026-07,IT,Licencias y servicios,Real,15222.78
+2026-08,IT,Licencias y servicios,Presupuesto,15000.0
+2026-08,IT,Licencias y servicios,Real,15186.39
+2026-09,IT,Licencias y servicios,Presupuesto,15000.0
+2026-09,IT,Licencias y servicios,Real,15875.43

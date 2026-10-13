@@ -1,0 +1,6 @@
+# Salidas generadas al ejecutar los proyectos
+informe_*/
+*.xlsx
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
